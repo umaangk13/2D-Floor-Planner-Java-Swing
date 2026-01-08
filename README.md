@@ -24,7 +24,7 @@ A Java Swing-based desktop GUI application to design 2D house floor plans intera
 ## Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/UMAANG-DEVANG-KHAMBHATI"><img src="https://avatars.githubusercontent.com/UMAANG-DEVANG-KHAMBHATI" width="80px;" alt=""/><br /><sub><b>Umaang Khambhati</b></sub></a></td>
+    <td align="center"><a href="https://github.com/umaangk13"><img src="https://avatars.githubusercontent.com/umaangk13" width="80px;" alt=""/><br /><sub><b>Umaang Khambhati</b></sub></a></td>
     <td align="center"><a href="https://github.com/Aayush394"><img src="https://avatars.githubusercontent.com/Aayush394" width="80px;" alt=""/><br /><sub><b>Aayush Shah</b></sub></a></td>
     <td align="center"><a href="https://github.com/NayonikaShrivastava"><img src="https://avatars.githubusercontent.com/NayonikaShrivastava" width="80px;" alt=""/><br /><sub><b>Nayonika Shrivastava</b></sub></a></td>
     <td align="center"><a href="https://github.com/AnoushkaSingh12"><img src="https://avatars.githubusercontent.com/AnoushkaSingh12" width="80px;" alt=""/><br /><sub><b>Anoushka Singh</b></sub></a></td>
